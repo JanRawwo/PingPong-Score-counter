@@ -1,0 +1,14 @@
+body{
+    
+}
+.winner{
+    color: green;
+}
+
+.looser{
+    color: red;
+}
+
+body{
+    background-color:rgb(163, 235, 205)
+}
